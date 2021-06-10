@@ -1,0 +1,45 @@
+aside{
+    width: 50%;
+    float: right;
+    background-color: lightgray;
+}
+a{
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+img{
+    max-width: 100%;
+}
+
+.exteral-css{
+    
+}
+.exteral-css h3{
+    width: 200px;
+    font-size: 30px;
+    text-transform: capitalize;
+    color:teal ;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgray;
+    padding: 20px;
+    margin: auto;
+}
+.exteral-css p{
+    font-style: italic;
+    font-size: 18px;
+    background-color: pink;
+    padding: 20px;
+}
+.exteral-css h4{
+    
+}
+.exteral-css span{ 
+    background-color: lightgreen;
+}
